@@ -9,7 +9,17 @@
 //
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
-//
-//= require rails-ujs
-//= require turbolinks
-//= require_tree .
+//= require jquery
+//= require jquery.min
+//= require jquery_ujs
+//= require bootstrap-sprockets
+//= require toastr
+//= require main
+//= require countdown
+//= require imagesloaded.min
+//= require jquery.isotope.min
+//= require jquery.mCustomScrollbar.concat.min
+//= require owl.carousel
+//= require jquery.easing
+//= require jquery.flexslider
+//= require jquery.mCustomScrollbar.concat.min
